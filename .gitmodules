@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eicm"]
+	path = eicm
+	url = https://github.com/miguel-porto/eicm
+	shallow = true
+	registered = true
+[submodule "SiMRiv"]
+	path = SiMRiv
+	url = https://github.com/miguel-porto/simriv
+	shallow = true
+	registered = true
