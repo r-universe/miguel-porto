@@ -1,10 +1,10 @@
 [
   {
-    "package": "SiMRiv",
+    "package": "eicm",
     "oncran": true
   },
   {
-    "package": "eicm",
+    "package": "SiMRiv",
     "oncran": true
   }
 ]
